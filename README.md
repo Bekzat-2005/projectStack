@@ -9,8 +9,6 @@ Project Overview
 Домен:
 Workspace, Task, Comment, User.
 
-Ссылка на презентацию:
-(сюда вставишь свою Canva/Google Drive ссылку)
 
 Роли пользователей
 
